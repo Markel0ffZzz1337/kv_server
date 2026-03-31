@@ -72,3 +72,5 @@ return "OK"
 ![终端测试截图](images/zsh_result.png)
 
 ### 2\. JMeter 并发性能测试结果
+
+![Jmeter测试截图](images/jmeter_result.png)
